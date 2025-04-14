@@ -1,0 +1,11 @@
+#heading{
+    background-color: red;
+
+}
+#parent{
+    background-color: green;
+    border-radius:5px ;
+}
+#child2{
+    background-color: blueviolet;
+}
